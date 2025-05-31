@@ -1,10 +1,10 @@
+
 fastapi
-uvicorn[standard]
-tensorflow
-scikit-learn
+uvicorn
 numpy
-pandas
+scikit-learn
 joblib
+pydantic
+torch
+transformers
 sentence-transformers
-catboost 
-xgboost
